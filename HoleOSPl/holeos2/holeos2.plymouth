@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Holeos2
+Description=Holeos Bootloader 2
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/holeos2
+ScriptFile=/usr/share/plymouth/themes/holeos/holeos2.script

@@ -1,0 +1,14 @@
+Shutown,zenity --warning,cs-power
+Logout,zenity --warning,cs-power
+Reboot,zenity --warning,cs-power
+^sep()
+Web Browser,firefox,firefox
+Terminal,xterm,utilities-terminal
+^sep()
+@icon,,5,7,48,48,0,left,top,,,/usr/share/icons/HoleOS/appL.png
+@icon,,50,7,100,48,0,left,top,,,/usr/share/HoleOSPl/logo2.png
+@search,,170,14,130,40,3,left,top,#aaaaaa 90,#222222 3,Type to search...
+@rect,,7,7,140,50,3,left,top,#aaaaaa 15,#000000 0,content
+
+
+@rect,,0,62,348,79,3,left,top,#aaaaaa 15,#000000 0,conten

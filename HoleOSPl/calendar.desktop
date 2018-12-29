@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Calendar
+Comment=Calendar Show
+X-GNOME-FullName=Calendar
+Exec=zenity --calendar --text="" --title="Calendar"
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=stock_calendar
+Categories=Calendar;
+StartupNotify=true
