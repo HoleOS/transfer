@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Apps
+X-GNOME-FullName=Apps
+Exec=jgmenu_run
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/usr/share/icons/HoleOS/appL.png
+Categories=Menu;
+StartupNotify=true
